@@ -3,4 +3,17 @@ body{
 }
 h1{
     text-align: center;
+    color: midnightblue;
 }
+header{
+    background-color: rgb(251, 196, 124);
+    margin-top: 0px;
+    
+    
+}
+#Department_Curriculum{
+    background-color: rgb(251, 196, 124);
+    
+    
+}
+
