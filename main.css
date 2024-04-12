@@ -12,12 +12,18 @@ header{
     margin-top: 0px;
     #content{
        width: 100%;
-       #links{
-        text-align: center;
       
+       
+       .nav__items{
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        text-align: center;
        }
-       a{
-            padding-left: 20px;
+       .nav__item{
+        display: inline-block;
+        margin-left: 20px;
+        
        }
     }
 }
