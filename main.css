@@ -18,12 +18,31 @@ header{
         margin: 0px;
         padding: 0px;
         list-style: none;
-        text-align: center;
+        text-align: left;
+        
        }
        .nav__item{
         display: inline-block;
-        margin-left: 20px;
+        margin-left: 265px;
         
+        
+       }
+       .nav__item a:link{
+        text-decoration: none;
+        font: bold;
+        color: rgb(40, 40, 237);
+        background-color: #f2e983;
+        border-radius: 1px solid #f2e983;
+        
+
+       }
+       .nav__item a:hover{
+        text-decoration: none;
+        font: bold;
+        color: rgb(40, 40, 237);
+        border-radius: 1px solid #f2e983;
+        background-color:#6be3e3;  
+
        }
     }
 }
@@ -45,6 +64,23 @@ header{
         width: 460px;
         display: inline-table;
         border: 4px double #1d70c9;
+        text-align: center;
+        a{
+            text-decoration: none;
+            font-weight: bold;
+           
+        }
+        h3{
+            a:hover{
+                text-decoration: none;
+                font: bold;
+                border: 1px solid #6be3e3;
+                background-color: #6be3e3;  
+            }
+        }
+        
+       
+       
     }
     #Commerical_Automation{
         font-size:15px;
