@@ -30,6 +30,16 @@ header{
 #Github{
     border: 5px solid white;
     border-bottom: 10px solid white;
+    .Repo{
+        height: 180px;
+        width: 481px;
+        display: inline-block;
+    }
+    #Commerical_Automation{
+        font-size:15px;
+    }
+    
 }
+
 
 
