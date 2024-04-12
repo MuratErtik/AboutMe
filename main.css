@@ -11,10 +11,14 @@ header{
     border-top: 10px solid white;
     margin-top: 0px;
     #content{
-        a {
-            padding-left: 250px;
-            
-        }
+       width: 100%;
+       #links{
+        text-align: center;
+      
+       }
+       a{
+            padding-left: 20px;
+       }
     }
 }
 #About_Me{
@@ -34,7 +38,7 @@ header{
         height: 170px;
         width: 460px;
         display: inline-table;
-        border: 4px double #122179;
+        border: 4px double #1d70c9;
     }
     #Commerical_Automation{
         font-size:15px;
