@@ -31,9 +31,10 @@ header{
     border: 5px solid white;
     border-bottom: 10px solid white;
     .Repo{
-        height: 180px;
-        width: 481px;
-        display: inline-block;
+        height: 170px;
+        width: 460px;
+        display: inline-table;
+        border: 4px double #122179;
     }
     #Commerical_Automation{
         font-size:15px;
